@@ -1,0 +1,46 @@
+Result for 11 concurrent downloads
+1.90 MB/s
+68.0 MB/s
+700 KB/s
+6.94 MB/s
+5.84 MB/s
+4.73 MB/s
+5.92 MB/s
+29.8 MB/s
+6.97 MB/s
+6.80 MB/s
+Result for 13 concurrent downloads
+74.7 MB/s
+135 MB/s
+5.87 MB/s
+5.82 MB/s
+7.65 MB/s
+6.46 MB/s
+7.44 MB/s
+51.5 MB/s
+8.39 MB/s
+8.25 MB/s
+Result for 14 concurrent downloads
+57.8 MB/s
+106 MB/s
+11.4 MB/s
+10.9 MB/s
+11.0 MB/s
+7.04 MB/s
+10.0 MB/s
+68.7 MB/s
+10.3 MB/s
+10.2 MB/s
+Result for 17 concurrent downloads
+
+Result for 25 concurrent downloads
+3.38 MB/s
+6.11 MB/s
+3.72 MB/s
+5.86 MB/s
+10.5 MB/s
+11.5 MB/s
+9.26 MB/s
+75.7 MB/s
+9.84 MB/s
+9.78 MB/s

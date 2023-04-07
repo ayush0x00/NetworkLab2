@@ -1,0 +1,91 @@
+Results for resource 1 with limit 100k
+Loop 1 throughput 125 B/s
+Loop 2 throughput 202 B/s
+Loop 3 throughput 252 B/s
+Loop 4 throughput 809 B/s
+Loop 5 throughput 73.5 B/s
+Results for resource 2 with limit 100k
+Loop 1 throughput 109 MB/s
+Loop 2 throughput 209 KB/s
+Loop 3 throughput 140 MB/s
+Loop 4 throughput 122 MB/s
+Loop 5 throughput 195 MB/s
+Results for resource 3 with limit 100k
+Loop 1 throughput 104 MB/s
+Loop 2 throughput 3.42 MB/s
+Loop 3 throughput 1.87 MB/s
+Loop 4 throughput 3.90 MB/s
+Loop 5 throughput 2.76 MB/s
+Results for resource 4 with limit 100k
+Loop 1 throughput 106 KB/s
+Loop 2 throughput 106 KB/s
+Loop 3 throughput 106 KB/s
+Loop 4 throughput 106 KB/s
+Loop 5 throughput 106 KB/s
+Results for resource 5 with limit 100k
+Loop 1 throughput 102 KB/s
+Loop 2 throughput 101 KB/s
+Loop 3 throughput 101 KB/s
+Loop 4 throughput 101 KB/s
+Loop 5 throughput 101 KB/s
+Results for resource 6 with limit 100k
+Loop 1 throughput 101 KB/s
+Loop 2 throughput 102 KB/s
+Loop 3 throughput 102 KB/s
+Loop 4 throughput 102 KB/s
+Loop 5 throughput 102 KB/s
+Results for resource 7 with limit 100k
+Loop 1 throughput 100 KB/s
+Loop 2 throughput 100 KB/s
+Loop 3 throughput 100 KB/s
+Loop 4 throughput 99.7 KB/s
+Loop 5 throughput 100 KB/s
+Results for resource 8 with limit 100k
+Results for resource 1 with limit 1m
+Loop 1 throughput 84.4 B/s
+Loop 2 throughput 109 B/s
+Loop 3 throughput 30.4 B/s
+Loop 4 throughput 20.0 B/s
+Loop 5 throughput 46.2 B/s
+Results for resource 2 with limit 1m
+Loop 1 throughput 97.7 MB/s
+Loop 2 throughput 51.4 MB/s
+Loop 3 throughput 75.1 MB/s
+Loop 4 throughput 97.7 MB/s
+Loop 5 throughput 97.7 MB/s
+Results for resource 3 with limit 1m
+Loop 1 throughput 1.51 MB/s
+Loop 2 throughput 4.94 MB/s
+Loop 3 throughput 3.23 MB/s
+Loop 4 throughput 3.38 MB/s
+Loop 5 throughput 6.30 MB/s
+Results for resource 4 with limit 1m
+Loop 1 throughput 2.80 MB/s
+Loop 2 throughput 855 KB/s
+Loop 3 throughput 588 KB/s
+Loop 4 throughput 2.28 MB/s
+Loop 5 throughput 7.71 MB/s
+Results for resource 5 with limit 1m
+Loop 1 throughput 1.42 MB/s
+Loop 2 throughput 1.61 MB/s
+Loop 3 throughput 1.05 MB/s
+Loop 4 throughput 1.04 MB/s
+Loop 5 throughput 1.02 MB/s
+Results for resource 6 with limit 1m
+Loop 1 throughput 1.06 MB/s
+Loop 2 throughput 1.07 MB/s
+Loop 3 throughput 1.05 MB/s
+Loop 4 throughput 1.02 MB/s
+Loop 5 throughput 1019 KB/s
+Results for resource 7 with limit 1m
+Loop 1 throughput 1.01 MB/s
+Loop 2 throughput 1.01 MB/s
+Loop 3 throughput 1.01 MB/s
+Loop 4 throughput 1.00 MB/s
+Loop 5 throughput 1.02 MB/s
+Results for resource 8 with limit 1m
+Loop 1 throughput 1.00 MB/s
+Loop 2 throughput 1.00 MB/s
+Loop 3 throughput 1.00 MB/s
+Loop 4 throughput 1022 KB/s
+Loop 5 throughput 1003 KB/s
